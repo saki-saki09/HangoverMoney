@@ -46,7 +46,7 @@ Track expenses, analyze spending, export reports, and manage your finances with 
 ## ⚙ Installation
 
 ```bash
-git clone https://github.com/saki-saki09/hangover-money.git
+git clone https://github.com/saki-saki09/HangoverMoney.git
 
 cd hangover-money
 
